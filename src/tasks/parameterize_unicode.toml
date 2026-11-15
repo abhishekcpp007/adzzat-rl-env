@@ -1,0 +1,6 @@
+name = "parameterize-unicode"
+difficulty = "medium"
+cases = "parameterize_unicode"
+gold = "upstream/inflection.py"
+mode = "all"
+expert_minutes = 20

@@ -1,0 +1,6 @@
+name = "ordinal-teens"
+difficulty = "easy"
+cases = "ordinal_teens"
+gold = "upstream/inflection.py"
+mode = "all"
+expert_minutes = 5

@@ -1,0 +1,6 @@
+{"seed": 1831230436, "cases": 537, "reward": 1.0}
+transliterate  passed=131  failed=0
+parameterize   passed=186  failed=0
+regression     passed=220  failed=0
+
+reward: 1.0

@@ -1,0 +1,5 @@
+{"seed": 958118089, "cases": 428, "reward": 1.0}
+ordinal        passed=208  failed=0
+regression     passed=220  failed=0
+
+reward: 1.0

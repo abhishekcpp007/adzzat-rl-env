@@ -1,0 +1,8 @@
+{
+  "task": "ordinal-teens",
+  "mode": "all",
+  "groups": [
+    "ordinal",
+    "regression"
+  ]
+}

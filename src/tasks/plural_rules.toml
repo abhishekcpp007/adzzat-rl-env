@@ -1,0 +1,6 @@
+name = "plural-rules"
+difficulty = "medium"
+cases = "plural_rules"
+gold = "upstream/inflection.py"
+mode = "partial"
+expert_minutes = 30

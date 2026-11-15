@@ -1,0 +1,6 @@
+name = "acronym-support"
+difficulty = "hard"
+cases = "acronyms"
+gold = "src/golds/t3_acronyms.py"
+mode = "all"
+expert_minutes = 90

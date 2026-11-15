@@ -1,0 +1,9 @@
+{
+  "task": "parameterize-unicode",
+  "mode": "all",
+  "groups": [
+    "transliterate",
+    "parameterize",
+    "regression"
+  ]
+}

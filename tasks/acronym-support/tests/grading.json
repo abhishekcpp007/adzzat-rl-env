@@ -1,0 +1,12 @@
+{
+  "task": "acronym-support",
+  "mode": "all",
+  "groups": [
+    "registry",
+    "camelize",
+    "underscore",
+    "humanize",
+    "titleize",
+    "regression"
+  ]
+}

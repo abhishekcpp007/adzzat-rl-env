@@ -1,0 +1,9 @@
+{"seed": 1249639500, "cases": 793, "reward": 1.0}
+registry       passed=9    failed=0
+camelize       passed=184  failed=0
+underscore     passed=168  failed=0
+humanize       passed=92   failed=0
+titleize       passed=100  failed=0
+regression     passed=240  failed=0
+
+reward: 1.0
