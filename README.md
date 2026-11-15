@@ -24,7 +24,7 @@ Other commands:
 make test        # 143 unit tests, no Docker needed
 make study       # every policy on every task with both graders, then checks the table
 make play TASK=ordinal-teens   # you are the agent: type shell commands, then `submit`
-make harbor      # Harbor's own oracle and nop agents on all four tasks
+make harbor      # Harbor's own oracle and nop agents on all five tasks
 ```
 
 ## Layout
