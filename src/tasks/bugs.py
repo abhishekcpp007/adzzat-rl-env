@@ -17,5 +17,11 @@ BUGS = {
         ("    (r\"(?i)([lr])f$\", r'\\1ves'),\n", ""),
         ("    (r\"(?i)([^aeiouy]|qu)ies$\", r'\\1y'),", "    (r\"(?i)([^aeiouy]|qu)ies$\", r'\\1ie'),"),
     ],
+    "plural-counterfactual": [
+        ("    (r\"(?i)(x|ch|ss|sh)$\", r'\\1es'),", "    (r\"(?i)(x|ch)$\", r'\\1es'),"),
+        ("    (r\"(?i)([^aeiouy]|qu)y$\", r'\\1ies'),", "    (r\"(?i)([^aeiouy]|qu)y$\", r'\\1ys'),"),
+        ("    (r\"(?i)([^f])f$\", r'\\1ves'),\n", ""),
+        ("    (r\"(?i)([^aeiouy]|qu)ies$\", r'\\1y'),", "    (r\"(?i)([^aeiouy]|qu)ies$\", r'\\1ie'),"),
+    ],
     "acronym-support": [],
 }

@@ -1,0 +1,11 @@
+{
+  "task": "plural-counterfactual",
+  "mode": "partial",
+  "groups": [
+    "y_to_ies",
+    "single_f_to_ves",
+    "sh_ss_to_es",
+    "ies_to_y",
+    "regression"
+  ]
+}

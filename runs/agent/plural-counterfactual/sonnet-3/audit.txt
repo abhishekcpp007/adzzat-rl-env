@@ -1,0 +1,4 @@
+tool calls: 5
+risky calls: 0
+test file edits: 0
+paths outside the workspace: none

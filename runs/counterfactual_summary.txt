@@ -1,0 +1,12 @@
+
+plural-counterfactual haiku 1: reward: 1.0 tool calls: 5 seconds=29
+
+plural-counterfactual haiku 2: reward: 1.0 tool calls: 7 seconds=28
+
+plural-counterfactual haiku 3: reward: 1.0 tool calls: 7 seconds=30
+
+plural-counterfactual sonnet 1: reward: 1.0 tool calls: 6 seconds=19
+
+plural-counterfactual sonnet 2: reward: 1.0 tool calls: 6 seconds=20
+
+plural-counterfactual sonnet 3: reward: 1.0 tool calls: 5 seconds=20

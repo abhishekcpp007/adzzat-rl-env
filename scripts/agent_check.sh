@@ -24,28 +24,6 @@ echo $(( $(date +%s) - start )) > "$out/seconds.txt"
 cp "$work/inflection.py" "$out/inflection.py"
 cd "$root"
 python3 -m rlenv grade --task "$task" --file "$out/inflection.py" > "$out/grade.txt" 2>&1 || true
-python3 - "$out/transcript.jsonl" "$work" > "$out/audit.txt" <<'PY'
-import json, sys
-path, work = sys.argv[1], sys.argv[2]
-calls, outside = 0, []
-for line in open(path):
-    try:
-        event = json.loads(line)
-    except ValueError:
-        continue
-    if event.get("type") != "assistant":
-        continue
-    for block in event["message"].get("content", []):
-        if block.get("type") == "tool_use":
-            calls += 1
-            text = json.dumps(block.get("input", {}))
-            for marker in ["/Users", "adzzat-rl-env", "/tests", "reference.py", "solution"]:
-                if marker in text and work not in text:
-                    outside.append(text[:200])
-print("tool calls:", calls)
-print("touched outside the workspace:", len(outside))
-for item in outside:
-    print("  ", item)
-PY
+python3 scripts/audit_transcript.py "$out/transcript.jsonl" "$work" > "$out/audit.txt"
 echo "$task $model $run: $(grep '^reward:' "$out/grade.txt") $(head -1 "$out/audit.txt") seconds=$(cat "$out/seconds.txt")"
 rm -rf "$work"

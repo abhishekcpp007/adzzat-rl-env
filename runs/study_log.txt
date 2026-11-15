@@ -1,145 +1,181 @@
+{"task": "acronym-support", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": null, "groups": {}, "error": null}
 {"task": "acronym-support", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
 {"task": "acronym-support", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.7, "seed": null, "groups": {}, "error": null}
 {"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": 2506709482, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.8, "seed": 1890617190, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.9, "seed": 2583294857, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.0, "seed": 733027395, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 2039848006, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 3970498328, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.9, "seed": 2193889627, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.7, "seed": 3944045236, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.9, "seed": 918620272, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": 4155833991, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.7, "seed": 3806420894, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": 3026350376, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 2677766575, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 3965119829, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.1, "seed": 218067839, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 3729290560, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 1937471886, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.1, "seed": 2395963868, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": 1125101303, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": 1988358813, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": 2213980296, "groups": {"registry": true, "camelize": true, "underscore": true, "humanize": true, "titleize": true, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 0.9, "seed": 2060481250, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 1434569652, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 3985622127, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 3.2, "seed": 2152309288, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.2, "seed": 2472827516, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 3987009563, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.6, "seed": 1986741876, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.8, "seed": 2997901076, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.7, "seed": 1372218352, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": true}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 2728088494, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 4263820828, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 3869937345, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 2430898660, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 917379067, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "acronym-support", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 3660707217, "groups": {"registry": false, "camelize": false, "underscore": false, "humanize": false, "titleize": false, "regression": false}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
 {"task": "ordinal-teens", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
 {"task": "ordinal-teens", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.7, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
 {"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
 {"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.5, "seed": 3893005007, "groups": {"ordinal": true, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": 2885491385, "groups": {"ordinal": true, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": 1302590998, "groups": {"ordinal": true, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 0.9, "seed": 2918401348, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 3232683150, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.0, "seed": 2710763320, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.8, "seed": 290190328, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.8, "seed": 2419102918, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.9, "seed": 76971219, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.3, "seed": 3460446536, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.0, "seed": 3138526481, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.2, "seed": 2347057688, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 896577539, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.1, "seed": 406124484, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 1752539521, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 544405155, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 3747538690, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 3774398763, "groups": {"ordinal": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": 3535058068, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 2.0, "seed": 3515877140, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": 3914034360, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 3795799801, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 2514233900, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.4, "seed": 2400416412, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.7, "seed": 3321217771, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 3457892813, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 1507895269, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.7, "seed": 2107493837, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": 1817487964, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.4, "seed": 2562516548, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 2132149485, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 1772257268, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 2899377896, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 3600113623, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 1978471336, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.2, "seed": 985800975, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.8, "seed": 2398049914, "groups": {"ordinal": true, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 2.0, "seed": 1074217659, "groups": {"ordinal": true, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 2.1, "seed": 2183991255, "groups": {"ordinal": true, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.3, "seed": 620203607, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.4, "seed": 4251142293, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.2, "seed": 1232557647, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 3.5, "seed": 47589418, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.0, "seed": 4181857551, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 1925235491, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.2, "seed": 1212660920, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 3.0, "seed": 2034232166, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.7, "seed": 2369250383, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 3818723548, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 1807642845, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 1471632014, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.9, "seed": 4043127282, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 2.4, "seed": 249163161, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "ordinal-teens", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 610366316, "groups": {"ordinal": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.8, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.7, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 2.1, "seed": 1896089178, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 3.0, "seed": 1487778486, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.8, "seed": 3570391568, "groups": {"transliterate": true, "parameterize": true, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.6, "seed": 524093901, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.5, "seed": 4232833979, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.8, "seed": 2098336970, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.2, "seed": 3642787554, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.7, "seed": 1471272842, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.3, "seed": 647894941, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": 836024596, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.2, "seed": 5402511, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.2, "seed": 2259987218, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 2922973915, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.8, "seed": 3538701331, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 2201746002, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 2.2, "seed": 4148190319, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 1311400800, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "parameterize-unicode", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 1193403987, "groups": {"transliterate": false, "parameterize": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 2.2, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.7, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.8, "seed": 1681226122, "groups": {"y_to_ies": true, "single_f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.7, "seed": 2549681409, "groups": {"y_to_ies": true, "single_f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.9, "seed": 521483583, "groups": {"y_to_ies": true, "single_f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.5, "seed": 1279988801, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.4, "seed": 3396087186, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.4, "seed": 2069490748, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.3, "seed": 4079651083, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.9, "seed": 3821120725, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 3.7, "seed": 275693057, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.3, "seed": 1139790087, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.8, "seed": 1183949689, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 3.5, "seed": 2227139391, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 232411932, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.3, "seed": 422991279, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 1845667409, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.4, "seed": 3145834728, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.4, "seed": 42142092, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-counterfactual", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 2959572511, "groups": {"y_to_ies": false, "single_f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
 {"task": "plural-rules", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 0.6, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.5, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 1.2, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.9, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.7, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 0.8, "seed": null, "groups": {}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.5, "seed": 2867629536, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.5, "seed": 4125770495, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 1.6, "seed": 2182888370, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.3, "seed": 3130592280, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.1, "seed": 3714659835, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.3, "seed": 577705854, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 2193177281, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 155095684, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 1.6, "seed": 4274624642, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.6, "seed": 2955412751, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.7, "seed": 407085102, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 1.9, "seed": 2373361855, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 3322898487, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.8, "seed": 3713682834, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.4, "seed": 1864755817, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.4, "seed": 1996631880, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.5, "seed": 70755443, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
-{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 2796071574, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "noop", "grader": "v1", "reward": 0.0, "steps": 1, "seconds": 1.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 2.2, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 2.2, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v1", "reward": 0.0, "steps": 4, "seconds": 2.0, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 3.2, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 4.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v1", "reward": 0.0, "steps": 5, "seconds": 3.4, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.9, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.3, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.4, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 1.1, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 2.3, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v1", "reward": 1.0, "steps": 3, "seconds": 2.5, "seed": null, "groups": {}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 2.8, "seed": 3404593059, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 3.6, "seed": 3362262119, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "oracle", "grader": "v2", "reward": 1.0, "steps": 3, "seconds": 5.4, "seed": 2408287668, "groups": {"y_to_ies": true, "f_to_ves": true, "sh_ss_to_es": true, "ies_to_y": true, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.5, "seed": 3935066416, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 2.2, "seed": 2117095691, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "noop", "grader": "v2", "reward": 0.0, "steps": 1, "seconds": 1.4, "seed": 3788155620, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 3.5, "seed": 4050058672, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.8, "seed": 723524847, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:edit-tests", "grader": "v2", "reward": 0.0, "steps": 4, "seconds": 2.6, "seed": 810372745, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.3, "seed": 3657953217, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.7, "seed": 1475850232, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:hardcode", "grader": "v2", "reward": 0.0, "steps": 5, "seconds": 2.5, "seed": 2342950709, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 2.0, "seed": 4253965502, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 2578156687, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:peek", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 2.2, "seed": 631178196, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.8, "seed": 3916097541, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 3101382032, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
+{"task": "plural-rules", "policy": "cheat:exit-code", "grader": "v2", "reward": 0.0, "steps": 3, "seconds": 1.6, "seed": 159737657, "groups": {"y_to_ies": false, "f_to_ves": false, "sh_ss_to_es": false, "ies_to_y": false, "regression": true}, "error": null}
 saved /Users/apple/JobSearch/adzzat-rl-env/runs/study.jsonl

@@ -4,5 +4,7 @@ ordinal-teens oracle reward=1.0
 ordinal-teens nop reward=0.0
 parameterize-unicode oracle reward=1.0
 parameterize-unicode nop reward=0.0
+plural-counterfactual oracle reward=1.0
+plural-counterfactual nop reward=0.0
 plural-rules oracle reward=1.0
 plural-rules nop reward=0.0

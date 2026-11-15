@@ -1,0 +1,6 @@
+name = "plural-counterfactual"
+difficulty = "medium"
+cases = "plural_counterfactual"
+gold = "src/golds/plural_counterfactual.py"
+mode = "partial"
+expert_minutes = 30

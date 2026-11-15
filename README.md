@@ -1,7 +1,7 @@
 # inflection-env
 
 A small RL environment built from the [`inflection`](https://github.com/jpvanhala/inflection)
-library. It has four coding tasks in Harbor format, a gym-style Python
+library. It has four coding tasks in Harbor format plus a contamination probe, a gym-style Python
 interface, a grader the agent can't read or reach, and a measured study of
 what happens when you try to cheat it.
 
@@ -21,7 +21,7 @@ make grade TASK=acronym-support FILE=path/to/inflection.py   # grade any file
 Other commands:
 
 ```bash
-make test        # 126 unit tests, no Docker needed
+make test        # 143 unit tests, no Docker needed
 make study       # every policy on every task with both graders, then checks the table
 make play TASK=ordinal-teens   # you are the agent: type shell commands, then `submit`
 make harbor      # Harbor's own oracle and nop agents on all four tasks
@@ -84,7 +84,7 @@ few failing examples, so `GRADING_SEED=<seed>` replays a run exactly.
 Each folder in `tasks/` is a Harbor task. `task.toml` runs the agent as
 `agent` and the verifier as `root`, with `network_mode = "no-network"`.
 `harbor run -p tasks/acronym-support -a oracle` scores 1.0 and `-a nop`
-scores 0.0 on all four tasks (`runs/harbor_summary.txt`).
+scores 0.0 on all of them (`runs/harbor_summary.txt`).
 
 On Docker Desktop for macOS Harbor's local provider can't enforce
 `no-network`, because the VM kernel lacks nftables. `make harbor` works around

@@ -6,7 +6,7 @@ written the way a user would write it. It reads code and runs commands as an
 unprivileged user with no network. When it's done it submits, and the only
 thing that leaves its container is `/app/inflection.py`.
 
-**The four tasks.**
+**The tasks.**
 
 | Task | Difficulty | What it takes |
 |---|---|---|
@@ -14,6 +14,7 @@ thing that leaves its container is `/app/inflection.py`.
 | `parameterize-unicode` | medium | Two bugs in two functions that call each other: accents get dropped, and custom separators double up. One issue describes only the symptoms. |
 | `acronym-support` | hard | A new feature across four functions plus a registry. `underscore(camelize(s)) == s` has to hold, so the CamelCase tokenizer needs real design. |
 | `plural-rules` | medium, partial credit | Four broken rule-table entries. Each fixed rule earns 0.25, and breaking anything else scores 0. |
+| `plural-counterfactual` | probe | Same as `plural-rules`, but one rule differs from upstream on purpose, so recalling the original library loses credit. |
 
 **What success means.** The grader runs the submitted module on a fixed set of
 cases plus a few hundred random ones drawn from a fresh seed, and compares each
